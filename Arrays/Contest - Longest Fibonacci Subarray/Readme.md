@@ -5,9 +5,6 @@ A Fibonacci array is a contiguous sequence whose third and subsequent terms each
 Return the length of the longest Fibonacci subarray in nums.
 
 Note: Subarrays of length 1 or 2 are always Fibonacci.
-
- 
-
 Example 1:
 
 Input: nums = [1,1,1,1,2,3,5,1]
