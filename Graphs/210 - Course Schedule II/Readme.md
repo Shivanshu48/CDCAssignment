@@ -5,7 +5,6 @@ For example, the pair [0, 1], indicates that to take course 0 you have to first 
 Return the ordering of courses you should take to finish all courses. If there are many valid answers, return any of them. If it is impossible to finish all courses, return an empty array.
 
  
-
 Example 1:
 
 Input: numCourses = 2, prerequisites = [[1,0]]
