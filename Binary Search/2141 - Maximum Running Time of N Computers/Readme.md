@@ -6,8 +6,6 @@ Note that the batteries cannot be recharged.
 
 Return the maximum number of minutes you can run all the n computers simultaneously.
 
- 
-
 Example 1:
 
 <img width="1042" height="205" alt="image" src="https://github.com/user-attachments/assets/df2db45e-9ed2-4bfc-a7bf-3c681d26441e" />
