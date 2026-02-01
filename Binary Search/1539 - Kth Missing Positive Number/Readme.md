@@ -2,7 +2,6 @@ Given an array arr of positive integers sorted in a strictly increasing order, a
 
 Return the kth positive integer that is missing from this array.
 
- 
 
 Example 1:
 
